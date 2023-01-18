@@ -1,0 +1,184 @@
+body {
+    font-family: 'Montserrat', sans-serif;   
+}
+
+#title {
+    background-color: #181D31;
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;   
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: 900;
+}
+
+h2 {
+    color: #fff;
+    font-family: 'Montserrat';
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;   
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+
+
+.container-fluid {
+    padding: 3% 10%;
+}
+
+.top-container {
+    padding-bottom: 5%;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-family: "Montserrat";
+    font-size: 1.2rem;
+}
+
+
+  .dropdown-menu {
+    background-color: #343a40;
+}
+
+.dropdown-item {
+    color: #fff;
+}
+
+.dropdown-item:hover {
+    background-color: #495057;
+}
+
+
+/* Download Buttons */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image {
+    width: 90%;
+    border-radius: 100%;
+}
+
+/* Middle Icons */
+
+.icon {
+    color: #E6DDC4;
+    padding-bottom: 7%;
+}
+
+#features {
+    padding-top: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+    padding-bottom: 3%;
+}
+
+/* HOVER DYNAMICS */
+
+.icon:hover {
+    color: #181D31;
+}
+
+/* Testimonials Section */
+
+#testimonials {
+    text-align: center;
+    background-color: #181D31;
+    color: #fff;
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#press {
+    background-color: #181D31;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+/* Pricing */
+
+.Pricing-text {
+    text-align: center;
+    padding-top: 6%;
+}
+
+.btn-primary {
+    background-color: #678983;
+}
+
+.btn-primary:hover {
+    background-color: #181D31;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+
+
+#cta {
+    text-align: center;
+    padding: 2% 2%;
+    padding-top: 5%;
+    background-color: #181D31;
+    color: #fff;
+}
+
+#footer {
+    text-align: center;
+    padding-top: 2%;
+}
+
+.pricing-container {
+    padding: 3% 14% 5% 14%;
+}
+
+.pricing-column {
+    padding: 3% 2%;
+}
